@@ -1,7 +1,3 @@
-
-963 / 5.000
-Çeviri sonuçları
-Çeviri sonucu
 Files to create
 config.ini
 
