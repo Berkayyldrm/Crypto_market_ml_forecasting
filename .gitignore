@@ -129,10 +129,4 @@ dmypy.json
 .pyre/
 
 config.ini
-manuel_tests/
-app/ml_models
-ml_notebooks
-nohup.out
-time_series_test
-notes.ods
 .vscode/
